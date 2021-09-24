@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lyricist</string>
+    <string name="enter_song_name">Enter Song Name</string>
+    <string name="your_lyrics_here">Your Lyrics Here</string>
+    <string name="search">Search</string>
+</resources>
